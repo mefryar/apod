@@ -1,0 +1,10 @@
+# Specify intentionally untracked files to ignore
+
+# API tokens and psql password
+secrets.py
+
+# Byte-compiled
+__pycache__/
+
+# Image
+*.jpg
